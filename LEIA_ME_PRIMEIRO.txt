@@ -1,0 +1,21 @@
+H2 GLOBAL JOBS - SITE FINAL
+
+Planos configurados:
+- Grátis: 24 horas
+- 7 dias: R$ 39,00
+- 30 dias: R$ 100,00
+- VIP 90 dias: R$ 250,00
+
+Pagamento:
+- Somente via Pix
+- A chave Pix aparece apenas depois do cadastro/login
+- Comprovante deve ser enviado pelo WhatsApp: (31) 98842-5410
+
+Admin inicial:
+Usuário: admin
+Senha: Aa251589Ff
+
+Como rodar:
+1) Execute RODAR_BACKEND.bat
+2) Execute RODAR_FRONTEND.bat
+3) Abra o endereço exibido no terminal do frontend.
